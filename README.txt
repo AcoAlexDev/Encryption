@@ -1,7 +1,5 @@
 This is all the information and documentation for the project.
 
-© Alexander Eckstein, 11.08.2025
-
 Info: This was created to try out encrypting and decrypting.
 I am a beginner in this field and this was my first time writing such an algorithm and was only made in about 3 afternoons.
 It should be bug-free and working but no warranty
@@ -34,3 +32,5 @@ algorithm_settings.json (used for encryption.py only):
 
 
 Algorithm Explaination can be found in encryption_simple.py for each step.
+
+© Alexander Eckstein, 11.08.2025
