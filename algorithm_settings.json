@@ -1,0 +1,6 @@
+{
+    "algorithm_choice": "c",
+    "random_mapping_repeat": 5,
+    "mapping_depth": 1,
+    "test_data_usage_percentage": 1.0
+}
